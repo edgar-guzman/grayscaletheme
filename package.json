@@ -1,0 +1,38 @@
+{
+    "name": "staticscale",
+    "displayName": "Staticscale Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "publisher": "edgaralexisguzman",
+    "repository": "https://github.com/edgar-guzman/staticscaletheme.git",
+    "homepage": "https://github.com/edgar-guzman/staticscaletheme",
+    "icon": "",
+    "author": {
+        "name": "Edgar Guzman"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "black and white theme",
+        "yellow highlight",
+        "edgarguzman",
+        "edgaralexisguzman",
+        "edgar-guzman",
+        "edgar guzman"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Staticscale Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Staticscale Theme-color-theme.json"
+            }
+        ]
+    }
+}
